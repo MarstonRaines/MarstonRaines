@@ -35,8 +35,3 @@ Welcome to my GitHub profile! I am a passionate developer focusing on Mathematic
 * Email: marstonraines@gmail.com
 * Blog/Portfolio: ```
 
----
-
-把这段代码粘贴到你仓库里的 `README.md` 文件中，点击页面右上角绿色的 **"Commit changes..."** 按钮保存，你的个人主页就会瞬间大变样！
-
-**主页配置完成后，你是想了解如何把你本地写的 Python/C++ 代码推送到 GitHub 上，还是想了解如何在 GitHub 上寻找优秀的开源项目来学习？**
