@@ -33,4 +33,4 @@ Welcome to my GitHub profile! I am a passionate developer focusing on Mathematic
 
 ### 📫 How to reach me
 * Email: marstonraines@gmail.com
-* Blog/Portfolio: ```
+* Blog/Portfolio: https://marstonraines.github.io
